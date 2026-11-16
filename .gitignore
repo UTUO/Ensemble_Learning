@@ -1,0 +1,14 @@
+
+# RStudio 暫存檔
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R 暫存檔
+.Renviron
+.Rprofile
+
+# Windows 系統檔案
+Thumbs.db
+Desktop.ini
